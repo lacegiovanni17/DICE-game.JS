@@ -1,8 +1,8 @@
 # DICE-game.JS
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
-💻 This is a dice 🎲 game website made with HTML, CSS and Javascript. 
-🌍 Website:  
+💻 This is a dice 🎲 game website made with HTML, CSS and Javascript. Player 1 & 2 should refresh the webpage to generate random outcomes for both dice. You can place bets with this and tell me how you faired.  
+🌍 Website:  https://lacegiovanni17.github.io/DICE-game.JS/
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
 
